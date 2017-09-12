@@ -15,7 +15,7 @@ Hello World!
    <br/>
       My Page on VK https://vk.com/anchernyshyova
        <br/>
-      My Page on на GitHub h<br/>ttps://github.com/aschernysheva
+      My Page on на GitHub https://github.com/aschernysheva
       <br/>
       <br/>
       Phone number: <b>+79254619981</b>
