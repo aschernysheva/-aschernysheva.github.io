@@ -8,12 +8,11 @@ Hello World!
     </head>
     <body> 
       <left><h1> I`m a student of the Higher School of Economic and I`m being proud of it. I hate informatics with all my heart (cause I`m really bad at it and I cannot change the situation). However I`m sure that IT is the most perspective sci-field today, plus Bill Ghates - the founder of Microsoft is the iconic figure for me - I really appreciate him, his projects and more than anything his super progressive ideas regarding politics, bissiness, education etc .</h1></left>
-      <left><img alt="that`s me" https://fileshare-c1810.cloud.acer.com/api/webpage?partnerid=acer&id=bgNlZXxBL40B9UtSAZIXwKxnRApci0iJqM3iNTQ1UO84.jpg"></left>
       <br/>
       <h2>Контакты:</h2>
-      Страничка VK <a href=https://vk.com/anchernyshyova/>vkontakte</a>
+      Страничка VK <a href=https://vk.com/anchernyshyova/a>
       <br/>
-      <a href=https://github.com/aschernysheva>GitHub</a>
+      <a href=https://github.com/aschernysheva /a>
       <br/>
       Телефон: <b>+79254619981</b>
       <br/>
